@@ -16,7 +16,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
 }
 
-CHAVE_API = "AQ.Ab8RN6I2Mv7DbzQ-bjiIooDM_L3azOopI1D1HUULptkumwTh7g"
+CHAVE_API = os.environ.get("GEMINI_API_KEY")
 client = genai.Client(api_key=CHAVE_API)
 # =================================================
 
