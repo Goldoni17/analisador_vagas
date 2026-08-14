@@ -1,1 +1,202 @@
-[]
+[
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Senior Data Scientist",
+        "empresa": "Chewy",
+        "url": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-chewy-4450222000",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Deep Learning",
+            "Neural Networks",
+            "GenAI / LLM",
+            "Statistical Modeling",
+            "NLP",
+            "AWS",
+            "Azure",
+            "GCP",
+            "Snowflake",
+            "SageMaker",
+            "Glue",
+            "Athena",
+            "Redshift",
+            "Bedrock",
+            "Spark",
+            "Iceberg",
+            "dbt",
+            "Tableau",
+            "Streamlit"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "Air",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-air-4447999140",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "Machine Learning",
+            "Gradient-Boosted Machines",
+            "Neural Networks",
+            "spaCy",
+            "fasttext",
+            "BERT",
+            "HDFS",
+            "Spark",
+            "AWS",
+            "Git",
+            "Statistical Analysis",
+            "Predictive Modeling"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "Rocket",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-rocket-4410180969",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "Agile Defense",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-agile-defense-4421971439",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist - Mid-Level",
+        "empresa": "Bluehawk LLC, Intelligence Services",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-mid-level-at-bluehawk-llc-intelligence-services-4327096496",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [
+            "Python",
+            "R",
+            "SQL",
+            "Power BI",
+            "Tableau",
+            "AI/ML",
+            "Relational Databases",
+            "NoSQL Databases",
+            "Cloud Big Data Technologies",
+            "Statistical Analysis",
+            "Data Mining"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Agentic AI Engineer",
+        "empresa": "Taxbit",
+        "url": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-at-taxbit-4436887601",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [
+            "Python",
+            "TypeScript",
+            "AWS",
+            "Bedrock",
+            "Strands Agents",
+            "AgentCore",
+            "Lambda",
+            "SageMaker",
+            "RAG",
+            "Prompt Engineering",
+            "LLM",
+            "DataDog",
+            "GitHub CI/CD",
+            "IAM"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI Engineer",
+        "empresa": "Eightpoint",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-eightpoint-4447151669",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Site AI Engineer - Las Vegas, NV",
+        "empresa": "Suffolk Construction",
+        "url": "https://www.linkedin.com/jobs/view/site-ai-engineer-las-vegas-nv-at-suffolk-construction-4403244933",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Machine Learning Engineer, Platform",
+        "empresa": "Brain Co.",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-platform-at-brain-co-4448672505",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Artificial (AI) Engineer",
+        "empresa": "VELOX",
+        "url": "https://www.linkedin.com/jobs/view/artificial-ai-engineer-at-velox-4272412466",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Software Engineer",
+        "empresa": "MORSE Corp",
+        "url": "https://www.linkedin.com/jobs/view/python-software-engineer-at-morse-corp-4347474078",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "InfoStride",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-infostride-4453141377",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "VLink Inc",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4454054704",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Engineer",
+        "empresa": "OVA.Work",
+        "url": "https://www.linkedin.com/jobs/view/python-engineer-at-ova-work-4445996797",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Software (python) Developer - Remote Schedule",
+        "empresa": "CPI Card Group",
+        "url": "https://www.linkedin.com/jobs/view/software-python-developer-remote-schedule-at-cpi-card-group-4438545327",
+        "data_coleta": "2026-08-14",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    }
+]
