@@ -12,6 +12,9 @@ CARGOS = ["Data Scientist", "AI Engineer", "Desenvolvedor Python"]
 LOCAL = "Brasil"
 ARQUIVO_DADOS = 'vagas.json'
 
+# Limite máximo de vagas NOVAS processadas por cada cargo para não estourar a API
+LIMITE_VAGAS_POR_CARGO = 5 
+
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
 }
@@ -32,21 +35,16 @@ def carregar_dados_antigos():
 def pegar_links_das_vagas(cargo):
     print(f"\n🔍 Buscando vagas de {cargo} em {LOCAL}...")
     cargo_url = urllib.parse.quote(cargo)
-    links_totais = []
     
-    # Busca nas duas primeiras páginas (0 e 25) para pegar mais vagas
-    for inicio in [0, 25]:
-        url_busca = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={cargo_url}&location={LOCAL}&start={inicio}"
-        resposta = requests.get(url_busca, headers=HEADERS)
-        site = BeautifulSoup(resposta.text, 'html.parser')
-        
-        links_pagina = [card['href'].split('?')[0] for card in site.find_all('a', class_='base-card__full-link')]
-        links_totais.extend(links_pagina)
-        time.sleep(2)
-        
-    # Remove duplicatas da própria busca
-    links_unicos = list(set(links_totais))
-    print(f"✅ Encontramos {len(links_unicos)} vagas únicas para {cargo}.")
+    # Busca apenas na primeira página (start=0) para economizar rastreamento
+    url_busca = f"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords={cargo_url}&location={LOCAL}&start=0"
+    resposta = requests.get(url_busca, headers=HEADERS)
+    site = BeautifulSoup(resposta.text, 'html.parser')
+    
+    links = [card['href'].split('?')[0] for card in site.find_all('a', class_='base-card__full-link')]
+    links_unicos = list(set(links))
+    
+    print(f"✅ Encontramos {len(links_unicos)} vagas únicas na primeira página para {cargo}.")
     return links_unicos
 
 def extrair_descricao_da_vaga(url_vaga, cargo_buscado):
@@ -124,9 +122,14 @@ if __name__ == '__main__':
 
     for cargo_atual in CARGOS:
         links = pegar_links_das_vagas(cargo_atual)
+        vagas_novas_neste_cargo = 0
         
         for link in links:
-            # Se a vaga já estiver no nosso JSON, ele pula para o próximo link
+            # Trava de segurança para não esgotar a cota em um único cargo
+            if vagas_novas_neste_cargo >= LIMITE_VAGAS_POR_CARGO:
+                print(f"🛑 Limite de {LIMITE_VAGAS_POR_CARGO} vagas novas atingido para {cargo_atual}. Indo para o próximo...")
+                break
+                
             if link in urls_ja_analisadas:
                 continue 
                 
@@ -137,21 +140,19 @@ if __name__ == '__main__':
                 skills = extrair_skills_com_ia(dados['descricao'])
                 dados.update(skills)
                 
-                # Remove o texto cru para o arquivo não ficar gigante
                 if 'descricao' in dados:
                     del dados['descricao'] 
                 
                 vagas_processadas.append(dados)
                 urls_ja_analisadas.add(link)
                 novas_vagas_adicionadas += 1
+                vagas_novas_neste_cargo += 1
                 
                 print(f"   -> 🧠 Hard Skills: {', '.join(dados.get('hard_skills', []))}")
                 print(f"   -> 🌎 Inglês: {dados.get('ingles', 'Não mencionado')}")
             
-            # PAUSA CORRETA: Dentro do loop das vagas, para esperar 5s antes de ir para o próximo link
             time.sleep(5)
             
-    # SALVAMENTO CORRETO: Fora de todos os loops. Só salva depois que ler absolutamente tudo.
     if novas_vagas_adicionadas > 0:
         with open(ARQUIVO_DADOS, 'w', encoding='utf-8') as arquivo:
             json.dump(vagas_processadas, arquivo, ensure_ascii=False, indent=4)
