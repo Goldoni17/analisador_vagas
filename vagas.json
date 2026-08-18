@@ -1052,5 +1052,106 @@
             "APIs"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "NOBLESTARK",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-noblestark-4452540677",
+        "data_coleta": "2026-08-18",
+        "hard_skills": [
+            "Python",
+            "R",
+            "SQL",
+            "Machine Learning",
+            "Statistical Analysis",
+            "Data Visualization"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist - Journeyman",
+        "empresa": "BigBear.ai",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-journeyman-at-bigbear-ai-4454299611",
+        "data_coleta": "2026-08-18",
+        "hard_skills": [
+            "Python",
+            "R",
+            "SQL",
+            "scikit-learn",
+            "TensorFlow",
+            "PyTorch",
+            "LLMs",
+            "Generative AI",
+            "NLP",
+            "Palantir Foundry",
+            "Databricks",
+            "Snowflake"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "Leidos",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-leidos-4441074687",
+        "data_coleta": "2026-08-18",
+        "hard_skills": [
+            "Python",
+            "Golang",
+            "Shell scripting",
+            "Bash",
+            "Docker",
+            "Nomad",
+            "Kubernetes",
+            "Docker Swarm",
+            "GitLab CI/CD",
+            "PostgreSQL",
+            "TCP",
+            "UDP",
+            "HTTPS",
+            "TLS",
+            "Terraform",
+            "Ansible",
+            "AWS",
+            "Azure",
+            "Grafana",
+            "Prometheus",
+            "ELK stack",
+            "Loki",
+            "RESTful API",
+            "Angular",
+            "Linux",
+            "Buildah",
+            "Helm"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "VLink Inc",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4455312517",
+        "data_coleta": "2026-08-18",
+        "hard_skills": [
+            "Python",
+            "FastAPI",
+            "Flask",
+            "Django",
+            "RESTful APIs",
+            "Relational databases",
+            "NoSQL",
+            "Git",
+            "Microsoft Azure",
+            "Angular",
+            "JavaScript",
+            "TypeScript",
+            "Docker",
+            "Kubernetes",
+            "Azure DevOps",
+            "CI/CD"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
