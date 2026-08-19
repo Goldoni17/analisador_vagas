@@ -1153,5 +1153,47 @@
             "CI/CD"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Backend Python Developer",
+        "empresa": "Emonics LLC",
+        "url": "https://www.linkedin.com/jobs/view/backend-python-developer-at-emonics-llc-4454797465",
+        "data_coleta": "2026-08-19",
+        "hard_skills": [
+            "Python",
+            "Django",
+            "Flask",
+            "SQL",
+            "Git",
+            "REST APIs"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "VLink Inc",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-vlink-inc-4455795098",
+        "data_coleta": "2026-08-19",
+        "hard_skills": [
+            "Python",
+            "RESTful APIs",
+            "FastAPI",
+            "Flask",
+            "Django",
+            "Relational Databases",
+            "NoSQL Databases",
+            "Git",
+            "Microsoft Azure",
+            "Angular",
+            "JavaScript",
+            "TypeScript",
+            "Docker",
+            "Kubernetes",
+            "Azure DevOps",
+            "CI/CD"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
