@@ -1195,5 +1195,140 @@
             "CI/CD"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "Booz Allen Hamilton",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4453358586",
+        "data_coleta": "2026-08-20",
+        "hard_skills": [
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Natural Language Processing (NLP)",
+            "Text Mining",
+            "Python",
+            "R",
+            "SQL",
+            "Tableau Desktop",
+            "Tableau Server",
+            "Tableau Prep",
+            "Data Visualization",
+            "Data Mining",
+            "Statistical Analysis",
+            "Predictive Data Modeling"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Confluent - Data Scientist - Product",
+        "empresa": "IBM",
+        "url": "https://www.linkedin.com/jobs/view/confluent-data-scientist-product-at-ibm-4452844433",
+        "data_coleta": "2026-08-20",
+        "hard_skills": [
+            "SQL",
+            "Python",
+            "A/B testing",
+            "Data mining",
+            "Tableau",
+            "Causal inference",
+            "Machine learning"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "DLA Piper",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-dla-piper-4455770640",
+        "data_coleta": "2026-08-20",
+        "hard_skills": [
+            "Python",
+            "R",
+            "SQL",
+            "SAS",
+            "NLTK",
+            "Scikit-Learn",
+            "Excel",
+            "Tableau",
+            "Power BI",
+            "Jupyter",
+            "Hadoop",
+            "Azure",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Agile"
+        ],
+        "ingles": "Obrigatório"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "Booz Allen Hamilton",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4432014340",
+        "data_coleta": "2026-08-20",
+        "hard_skills": [
+            "Python",
+            "R",
+            "SQL",
+            "NoSQL",
+            "MapReduce",
+            "Hadoop",
+            "Hive",
+            "EMR",
+            "Kafka",
+            "Spark",
+            "Gurobi",
+            "MySQL",
+            "Plotly",
+            "Seaborn",
+            "ggplot2"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Senior Data Scientist",
+        "empresa": "Noblis",
+        "url": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-noblis-4455399225",
+        "data_coleta": "2026-08-20",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "PostgreSQL",
+            "Spark",
+            "Git",
+            "Apache NiFi",
+            "AWS",
+            "GCP",
+            "Microsoft Azure",
+            "Shodan",
+            "Censys.IO",
+            "Tableau",
+            "Pentaho",
+            "Kafka"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Machine Learning Engineer II",
+        "empresa": "Allvue Systems",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-ii-at-allvue-systems-4455458561",
+        "data_coleta": "2026-08-20",
+        "hard_skills": [
+            "Python",
+            "APIs",
+            "LLM",
+            "RAG (Retrieval-Augmented Generation)",
+            "Retool",
+            "Zapier",
+            "UiPath",
+            "AWS",
+            "Snowflake",
+            "M365"
+        ],
+        "ingles": "Obrigatório"
     }
 ]
