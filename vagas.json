@@ -1330,5 +1330,147 @@
             "M365"
         ],
         "ingles": "Obrigatório"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "DLA Piper",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-dla-piper-4455777497",
+        "data_coleta": "2026-08-21",
+        "hard_skills": [
+            "Python",
+            "R",
+            "SQL",
+            "SAS",
+            "NLTK",
+            "Scikit-Learn",
+            "Excel",
+            "Tableau",
+            "Power BI",
+            "Jupyter",
+            "Hadoop",
+            "Azure"
+        ],
+        "ingles": "Obrigatório"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI Engineer – Center of Excellence",
+        "empresa": "Aderant",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-%E2%80%93-center-of-excellence-at-aderant-4451552732",
+        "data_coleta": "2026-08-21",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Generative AI & Machine Learning Engineer",
+        "empresa": "Thomson Reuters",
+        "url": "https://www.linkedin.com/jobs/view/generative-ai-machine-learning-engineer-at-thomson-reuters-4349250403",
+        "data_coleta": "2026-08-21",
+        "hard_skills": [
+            "Python",
+            "Generative AI",
+            "Machine Learning",
+            "RAG",
+            "ReAct",
+            "LangChain",
+            "NLP",
+            "PyTorch",
+            "TensorFlow",
+            "Scikit-learn",
+            "spaCy",
+            "HuggingFace Transformers/Diffusers",
+            "OpenAI",
+            "Semantic Kernel",
+            "OpenCV",
+            "AWS",
+            "Azure",
+            "APIs"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Software Engineer, Applied AI",
+        "empresa": "Serval",
+        "url": "https://www.linkedin.com/jobs/view/software-engineer-applied-ai-at-serval-4404263433",
+        "data_coleta": "2026-08-21",
+        "hard_skills": [
+            "LLMs",
+            "Prompt engineering",
+            "Fine-tuning",
+            "APIs",
+            "Data pipelines",
+            "AWS",
+            "GCP",
+            "Go",
+            "gRPC",
+            "React",
+            "TypeScript",
+            "Kubernetes",
+            "Terraform",
+            "RAG",
+            "Vector databases"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Senior Engineer - Machine Learning",
+        "empresa": "Berkadia",
+        "url": "https://www.linkedin.com/jobs/view/senior-engineer-machine-learning-at-berkadia-4451182653",
+        "data_coleta": "2026-08-21",
+        "hard_skills": [
+            "Python",
+            "Machine Learning",
+            "Generative AI",
+            "LLMs",
+            "Retrieval-Augmented Generation (RAG)",
+            "Prompt Engineering",
+            "AI Agents",
+            "Cloud Infrastructure",
+            "MLOps",
+            "React",
+            "JavaScript",
+            "Agile",
+            "CI/CD"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI/ML Engineer - Hybrid Onsite In Eden Prairie, MN",
+        "empresa": "Optum",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-hybrid-onsite-in-eden-prairie-mn-at-optum-4449971747",
+        "data_coleta": "2026-08-21",
+        "hard_skills": [
+            "LLMs",
+            "Machine Learning",
+            "LangChain",
+            "Fine-tuning",
+            "Retrieval-Augmented Generation (RAG)",
+            "Python",
+            "PEP8",
+            "Docker",
+            "Git",
+            "XGBoost",
+            "K-means",
+            "Terminal"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "Open Systems Technologies",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-open-systems-technologies-3952273769",
+        "data_coleta": "2026-08-21",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "Relational databases"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
