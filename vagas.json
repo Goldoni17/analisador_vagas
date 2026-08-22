@@ -1472,5 +1472,89 @@
             "Relational databases"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "Alterman, Inc.",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-alterman-inc-4453467013",
+        "data_coleta": "2026-08-22",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "Snowflake",
+            "Machine Learning",
+            "Data Visualization",
+            "Data Wrangling",
+            "Cloud Data Warehouses",
+            "MLOps",
+            "Airflow",
+            "Deep Learning",
+            "Natural Language Processing (NLP)",
+            "Computer Vision",
+            "Statistical Analysis"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI Engineer",
+        "empresa": "Tessera Labs",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-tessera-labs-4456285679",
+        "data_coleta": "2026-08-22",
+        "hard_skills": [
+            "Python",
+            "TypeScript",
+            "SAP",
+            "Salesforce",
+            "Workday",
+            "Oracle",
+            "Snowflake",
+            "MuleSoft",
+            "ServiceNow",
+            "MCP",
+            "RAG",
+            "Machine Learning"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Machine Learning Engineer, Applied AI",
+        "empresa": "Brain Co.",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-applied-ai-at-brain-co-4275844846",
+        "data_coleta": "2026-08-22",
+        "hard_skills": [
+            "Machine Learning",
+            "LLMs",
+            "Agentic Systems",
+            "Prompting",
+            "Fine-tuning",
+            "RL fine-tuning",
+            "Vision Transformers",
+            "Segmentation Models",
+            "VLMs",
+            "Rule Engines"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Software Engineer III",
+        "empresa": "JPMorganChase",
+        "url": "https://www.linkedin.com/jobs/view/python-software-engineer-iii-at-jpmorganchase-4457555689",
+        "data_coleta": "2026-08-22",
+        "hard_skills": [
+            "Python",
+            "APIs",
+            "Databases",
+            "Scripting languages",
+            "CI/CD",
+            "AWS",
+            "Cloud technologies",
+            "Front-end technologies",
+            "AI-assisted software development tools"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
