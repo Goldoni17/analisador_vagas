@@ -1556,5 +1556,127 @@
             "AI-assisted software development tools"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Senior/Lead Data Scientist",
+        "empresa": "Ameren",
+        "url": "https://www.linkedin.com/jobs/view/senior-lead-data-scientist-at-ameren-4457508969",
+        "data_coleta": "2026-08-23",
+        "hard_skills": [
+            "Python",
+            "R",
+            "SAS",
+            "SQL",
+            "Databricks",
+            "Machine Learning"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Django Developer",
+        "empresa": "Tata Consultancy Services",
+        "url": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4451909310",
+        "data_coleta": "2026-08-23",
+        "hard_skills": [
+            "Python",
+            "Django",
+            "Nginx",
+            "AWS Gov Cloud",
+            "Cloud Security",
+            "FedRAMP",
+            "IL5 Compliance"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "26-1106:  Python Developer - Herndon, VA",
+        "empresa": "Navitas Business Consulting, Inc.",
+        "url": "https://www.linkedin.com/jobs/view/26-1106-python-developer-herndon-va-at-navitas-business-consulting-inc-4445043643",
+        "data_coleta": "2026-08-23",
+        "hard_skills": [
+            "Python",
+            "REST APIs",
+            "Flask",
+            "FastAPI",
+            "Relational databases",
+            "NoSQL",
+            "Git",
+            "CI/CD",
+            "Docker",
+            "Kubernetes",
+            "AWS"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "CACI International Inc",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-caci-international-inc-4431992044",
+        "data_coleta": "2026-08-23",
+        "hard_skills": [
+            "Python",
+            "Git",
+            "PostgreSQL",
+            "MySQL",
+            "SQL",
+            "AWS",
+            "RESTful APIs",
+            "Microservices",
+            "LLMs",
+            "RAG",
+            "Docker",
+            "CI/CD"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Junior Python Developer",
+        "empresa": "Leidos",
+        "url": "https://www.linkedin.com/jobs/view/junior-python-developer-at-leidos-4419617058",
+        "data_coleta": "2026-08-23",
+        "hard_skills": [
+            "Python",
+            "Shell scripting",
+            "Git",
+            "GitLab",
+            "CI/CD",
+            "REST APIs",
+            "Linux",
+            "PostgreSQL",
+            "Docker"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Senior Software Engineer, Python (Chicago)",
+        "empresa": "Fitch Group, Inc.",
+        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-chicago-at-fitch-group-inc-4267990251",
+        "data_coleta": "2026-08-23",
+        "hard_skills": [
+            "Python",
+            "AWS",
+            "Microsoft Azure",
+            "CI/CD",
+            "Postgres",
+            "Oracle",
+            "SQL",
+            "NoSQL",
+            "GitHub",
+            "Bamboo",
+            "JIRA",
+            "Django",
+            "Flask",
+            "Pyramid",
+            "Docker",
+            "Kubernetes",
+            "EKS"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
