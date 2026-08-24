@@ -1678,5 +1678,19 @@
             "EKS"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Product Engineer",
+        "empresa": "Deployly AI",
+        "url": "https://www.linkedin.com/jobs/view/product-engineer-at-deployly-ai-4447791646",
+        "data_coleta": "2026-08-24",
+        "hard_skills": [
+            "AI",
+            "Model Integration",
+            "Model Evaluation",
+            "Performance Tuning"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
