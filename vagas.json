@@ -1777,5 +1777,142 @@
         "data_coleta": "2026-08-25",
         "hard_skills": [],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "KBR Careers",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-kbr-careers-4458542261",
+        "data_coleta": "2026-08-26",
+        "hard_skills": [
+            "Python",
+            "SpaCy",
+            "Gensim",
+            "NLTK",
+            "PyTorch",
+            "TensorFlow",
+            "Keras",
+            "Hugging Face Transformers",
+            "SQL",
+            "GPU-accelerated computing",
+            "Spring Boot",
+            "REST APIs",
+            "Cloud Computing",
+            "LLMs"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist, Senior",
+        "empresa": "Booz Allen Hamilton",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4438298531",
+        "data_coleta": "2026-08-26",
+        "hard_skills": [
+            "Python",
+            "JSON",
+            "XML",
+            "Geospatial file formats",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "NLP",
+            "Computer Vision",
+            "IoT"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Senior Machine Learning Engineer",
+        "empresa": "Entrata",
+        "url": "https://www.linkedin.com/jobs/view/senior-machine-learning-engineer-at-entrata-4455421950",
+        "data_coleta": "2026-08-26",
+        "hard_skills": [
+            "Python",
+            "PyTorch",
+            "vLLM",
+            "DeepSpeed",
+            "FSDP",
+            "LLM"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Senior AI/ML Engineer",
+        "empresa": "Optum",
+        "url": "https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-at-optum-4433080806",
+        "data_coleta": "2026-08-26",
+        "hard_skills": [
+            "Python",
+            "PyTorch",
+            "TensorFlow",
+            "Hugging Face",
+            "OpenAI",
+            "Anthropic",
+            "Claude",
+            "Gemini",
+            "LLaMA",
+            "Mistral",
+            "Codex",
+            "Claude Code",
+            "Cursor",
+            "Windsurf",
+            "LangChain",
+            "LlamaIndex",
+            "Semantic Kernel",
+            "AWS",
+            "Azure",
+            "GCP",
+            "CI/CD",
+            "Vector Databases"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance) - 2027 Start",
+        "empresa": "TikTok",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-recommendation-search-alliance-2027-start-at-tiktok-4449984411",
+        "data_coleta": "2026-08-26",
+        "hard_skills": [
+            "Machine Learning",
+            "Recommendation Systems",
+            "Ranking Algorithms",
+            "LLMs",
+            "NLP",
+            "Multimodal Machine Learning",
+            "Data Structures",
+            "Algorithms",
+            "Statistics",
+            "Distributed Computing",
+            "Big Data Engineering"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Applied AI Engineer",
+        "empresa": "Luminai",
+        "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-at-luminai-4394312789",
+        "data_coleta": "2026-08-26",
+        "hard_skills": [
+            "Machine Learning",
+            "Algorithms",
+            "Data Structures",
+            "System Design",
+            "Distributed Computing Systems",
+            "AI Systems"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI/ML Engineer, Senior",
+        "empresa": "Booz Allen Hamilton",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-senior-at-booz-allen-hamilton-4454302465",
+        "data_coleta": "2026-08-26",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
     }
 ]
