@@ -1914,5 +1914,155 @@
         "data_coleta": "2026-08-26",
         "hard_skills": [],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Specialist, Data Scientist",
+        "empresa": "Pearson",
+        "url": "https://www.linkedin.com/jobs/view/specialist-data-scientist-at-pearson-4457484723",
+        "data_coleta": "2026-08-27",
+        "hard_skills": [
+            "Python",
+            "Machine Learning",
+            "Statistical Modeling",
+            "Generative AI",
+            "LLMs",
+            "RAG (Retrieval-Augmented Generation)",
+            "Azure",
+            "Predictive Analytics",
+            "Data Visualization"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Specialist, Data Scientist",
+        "empresa": "Pearson",
+        "url": "https://www.linkedin.com/jobs/view/specialist-data-scientist-at-pearson-4457478742",
+        "data_coleta": "2026-08-27",
+        "hard_skills": [
+            "Python",
+            "Machine Learning",
+            "Statistical Modeling",
+            "Generative AI",
+            "Large Language Models (LLMs)",
+            "Retrieval-Augmented Generation (RAG)",
+            "Azure",
+            "Predictive Analytics",
+            "Data Visualization",
+            "Agile"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "The Home Depot",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-the-home-depot-4457987305",
+        "data_coleta": "2026-08-27",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "Google BigQuery",
+            "Tableau",
+            "Microsoft Excel",
+            "Power Point",
+            "Computer Vision",
+            "NLP",
+            "Optimization",
+            "Predictive Modeling",
+            "Data Mining",
+            "Data Analysis",
+            "Estatística"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Early Career Machine Learning Engineer, Applied AI",
+        "empresa": "Brain Co.",
+        "url": "https://www.linkedin.com/jobs/view/early-career-machine-learning-engineer-applied-ai-at-brain-co-4362406858",
+        "data_coleta": "2026-08-27",
+        "hard_skills": [
+            "PyTorch",
+            "Jax",
+            "TensorFlow",
+            "LLMs",
+            "RAG",
+            "GenAI",
+            "Machine Learning",
+            "Data Pipelines"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Machine Learning Engineer Graduate (E-Commerce) - 2027 Start",
+        "empresa": "TikTok USDS Joint Venture",
+        "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-graduate-e-commerce-2027-start-at-tiktok-usds-joint-venture-4449534864",
+        "data_coleta": "2026-08-27",
+        "hard_skills": [
+            "LLM",
+            "Instruction Tuning",
+            "RLHF",
+            "DPO",
+            "Prompt Engineering",
+            "Quantization",
+            "Distillation",
+            "FlashAttention",
+            "vLLM",
+            "Machine Learning",
+            "NLP",
+            "Computer Vision",
+            "C++",
+            "Python",
+            "Go",
+            "Java"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "TMV Global Inc",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-tmv-global-inc-4456601170",
+        "data_coleta": "2026-08-27",
+        "hard_skills": [
+            "Python",
+            "Flask API",
+            "AWS"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python/Perl Developer",
+        "empresa": "Matlen Silver",
+        "url": "https://www.linkedin.com/jobs/view/python-perl-developer-at-matlen-silver-4458290674",
+        "data_coleta": "2026-08-27",
+        "hard_skills": [
+            "Python",
+            "MSSQL",
+            "Perl",
+            "Linux",
+            "RESTful APIs",
+            "OpenAPI 3.0",
+            "Jira",
+            "Confluence",
+            "Git",
+            "Bitbucket",
+            "CI/CD",
+            "Jenkins",
+            "Ansible",
+            "GitHub Copilot",
+            "Kubernetes",
+            "OpenShift",
+            "NFS",
+            "Red Hat Enterprise Linux",
+            "NetApp",
+            "Oracle SQL",
+            "Splunk"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
