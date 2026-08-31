@@ -2197,5 +2197,67 @@
             "CSS"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "HRK Technologies Inc.",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-hrk-technologies-inc-4460031508",
+        "data_coleta": "2026-08-31",
+        "hard_skills": [
+            "Python",
+            "Programação Orientada a Objetos (OOP)",
+            "Django",
+            "FastAPI",
+            "Flask",
+            "SQL",
+            "NoSQL",
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+            "Git",
+            "GitHub",
+            "GitLab",
+            "Docker",
+            "APIs RESTful",
+            "CI/CD"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "Solverix Global Inc.",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-solverix-global-inc-4460025603",
+        "data_coleta": "2026-08-31",
+        "hard_skills": [
+            "Python",
+            "Django",
+            "Flask",
+            "FastAPI",
+            "SQL",
+            "PostgreSQL",
+            "MySQL",
+            "SQLAlchemy",
+            "Django ORM",
+            "Git",
+            "GitHub Actions",
+            "Jenkins",
+            "Docker",
+            "RESTful APIs",
+            "JSON",
+            "XML",
+            "HTTP"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Full Stack Developer (Python-Heavy / Backend-Focused)",
+        "empresa": "Infinity Quest",
+        "url": "https://www.linkedin.com/jobs/view/full-stack-developer-python-heavy-backend-focused-at-infinity-quest-4461226511",
+        "data_coleta": "2026-08-31",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
     }
 ]
