@@ -2259,5 +2259,29 @@
         "data_coleta": "2026-08-31",
         "hard_skills": [],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist - Office of Inspector General",
+        "empresa": "GSA",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-office-of-inspector-general-at-gsa-4461261892",
+        "data_coleta": "2026-09-01",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Django Developer",
+        "empresa": "Tata Consultancy Services",
+        "url": "https://www.linkedin.com/jobs/view/python-django-developer-at-tata-consultancy-services-4457648341",
+        "data_coleta": "2026-09-01",
+        "hard_skills": [
+            "Python",
+            "Django",
+            "Nginx",
+            "AWS GovCloud",
+            "Cloud Security"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
