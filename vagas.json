@@ -2283,5 +2283,23 @@
             "Cloud Security"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Senior AI/ML Software Engineer",
+        "empresa": "U.S. Bank",
+        "url": "https://www.linkedin.com/jobs/view/senior-ai-ml-software-engineer-at-u-s-bank-4457385796",
+        "data_coleta": "2026-09-02",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Sr. AI/ML Engineer- Digital and Consumer - Remote",
+        "empresa": "Optum",
+        "url": "https://www.linkedin.com/jobs/view/sr-ai-ml-engineer-digital-and-consumer-remote-at-optum-4460927464",
+        "data_coleta": "2026-09-02",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
     }
 ]
