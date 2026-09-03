@@ -2301,5 +2301,56 @@
         "data_coleta": "2026-09-02",
         "hard_skills": [],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "Saxon Global",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-saxon-global-4459547831",
+        "data_coleta": "2026-09-03",
+        "hard_skills": [
+            "Python",
+            "REST APIs",
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+            "Redis",
+            "SQLAlchemy",
+            "Django ORM",
+            "SQL",
+            "FastAPI",
+            "Django",
+            "Flask",
+            "Git",
+            "Linux",
+            "Docker",
+            "RabbitMQ",
+            "Celery",
+            "Kafka",
+            "AWS",
+            "Azure",
+            "GCP",
+            "CI/CD"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "Virtusa",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-virtusa-4460703463",
+        "data_coleta": "2026-09-03",
+        "hard_skills": [
+            "Python",
+            "Java",
+            "R",
+            "Cloud",
+            "AWS",
+            "Containers",
+            "Docker",
+            "Microservices",
+            "System Integration"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
