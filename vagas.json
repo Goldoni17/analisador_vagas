@@ -2447,5 +2447,75 @@
             "Databases"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist - Generative BI",
+        "empresa": "The Home Depot",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-generative-bi-at-the-home-depot-4462320166",
+        "data_coleta": "2026-09-06",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI Engineer",
+        "empresa": "Eightpoint",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-eightpoint-4460035129",
+        "data_coleta": "2026-09-06",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Artificial (AI) Engineer",
+        "empresa": "VELOX",
+        "url": "https://www.linkedin.com/jobs/view/artificial-ai-engineer-at-velox-4458923517",
+        "data_coleta": "2026-09-06",
+        "hard_skills": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "scikit-learn",
+            "TensorFlow",
+            "PyTorch",
+            "NLP",
+            "RAG",
+            "LLMs",
+            "OpenAI",
+            "Claude",
+            "Mistral",
+            "Vector Databases",
+            "Pinecone",
+            "Weaviate",
+            "FAISS",
+            "GCP",
+            "AWS",
+            "Azure",
+            "PHP",
+            "Laravel",
+            "MySQL",
+            "REST APIs",
+            "Microservices",
+            "React",
+            "JavaScript",
+            "LangChain",
+            "LlamaIndex",
+            "GA4",
+            "Google Search Console",
+            "n8n",
+            "Zapier",
+            "Make.com"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI Engineer",
+        "empresa": "Air",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-air-4460788847",
+        "data_coleta": "2026-09-06",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
     }
 ]
