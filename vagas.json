@@ -2517,5 +2517,39 @@
         "data_coleta": "2026-09-06",
         "hard_skills": [],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "PayPal",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-paypal-4463633974",
+        "data_coleta": "2026-09-07",
+        "hard_skills": [
+            "Data Science",
+            "Statistical Analysis",
+            "Algorithms"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "PayPal",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-paypal-4463637922",
+        "data_coleta": "2026-09-07",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "ACI INFOTECH",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-aci-infotech-4408261449",
+        "data_coleta": "2026-09-07",
+        "hard_skills": [
+            "Python",
+            "SQL"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
