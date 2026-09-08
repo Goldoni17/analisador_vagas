@@ -2551,5 +2551,42 @@
             "SQL"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Mid-Level Software Engineer – Python",
+        "empresa": "Victory Live",
+        "url": "https://www.linkedin.com/jobs/view/mid-level-software-engineer-%E2%80%93-python-at-victory-live-4461866234",
+        "data_coleta": "2026-09-08",
+        "hard_skills": [
+            "Python",
+            "FastAPI",
+            "Pydantic",
+            "pytest",
+            "SQLAlchemy",
+            "Alembic",
+            "Celery",
+            "Datadog",
+            "PostgreSQL",
+            "Redis",
+            "Kafka",
+            "AWS",
+            "Kubernetes",
+            "Terraform",
+            "Docker",
+            "Claude Code",
+            "GitHub Copilot",
+            "Grafana",
+            "Kibana",
+            "OpsGenie",
+            "Jira",
+            "Confluence",
+            "GitHub",
+            "Slack",
+            "Miro",
+            "Uvicorn",
+            "REST APIs"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
