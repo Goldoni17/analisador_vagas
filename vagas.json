@@ -2588,5 +2588,67 @@
             "REST APIs"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "A/AI Machine Learning Engineer",
+        "empresa": "Lockheed Martin",
+        "url": "https://www.linkedin.com/jobs/view/a-ai-machine-learning-engineer-at-lockheed-martin-4463473372",
+        "data_coleta": "2026-09-10",
+        "hard_skills": [
+            "Artificial Intelligence (AI)",
+            "Machine Learning (ML)",
+            "Generative AI",
+            "Large Language Models (LLM)",
+            "Retrieval Augmented Generation (RAG)",
+            "LangChain",
+            "MCP",
+            "Docker",
+            "Kubernetes",
+            "Cloud",
+            "Containers",
+            "Data Pipelines"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI/ML Engineer Remote Nationwide or Hybrid in MN/DC",
+        "empresa": "Optum",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-remote-nationwide-or-hybrid-in-mn-dc-at-optum-4449988306",
+        "data_coleta": "2026-09-10",
+        "hard_skills": [
+            "Python",
+            "LLMs",
+            "LangChain",
+            "Docker",
+            "Git",
+            "Retrieval-Augmented Generation (RAG)",
+            "Machine Learning",
+            "XGBoost",
+            "K-means",
+            "Fine-tuning",
+            "Terminal"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Python Developer",
+        "empresa": "NeerInfo Solutions",
+        "url": "https://www.linkedin.com/jobs/view/python-developer-at-neerinfo-solutions-4465314151",
+        "data_coleta": "2026-09-10",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "Unix shell scripting",
+            "RESTful APIs",
+            "ETL",
+            "MongoDB",
+            "Hadoop",
+            "OpenShift",
+            "Docker"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
