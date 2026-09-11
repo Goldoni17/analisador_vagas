@@ -2650,5 +2650,95 @@
             "Docker"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Senior Data Scientist - Remote",
+        "empresa": "UnitedHealthcare",
+        "url": "https://www.linkedin.com/jobs/view/senior-data-scientist-remote-at-unitedhealthcare-4466038341",
+        "data_coleta": "2026-09-11",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI Engineer",
+        "empresa": "Univera Healthcare",
+        "url": "https://www.linkedin.com/jobs/view/ai-engineer-at-univera-healthcare-4464823374",
+        "data_coleta": "2026-09-11",
+        "hard_skills": [
+            "Machine Learning",
+            "Artificial Intelligence",
+            "LLMs",
+            "Generative AI",
+            "NLP",
+            "Databricks",
+            "SQL",
+            "AWS SageMaker",
+            "Azure ML",
+            "Spark",
+            "APIs",
+            "CI/CD",
+            "MLOps",
+            "LLMOps",
+            "Prompt Engineering"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Senior Software Engineer - Python",
+        "empresa": "Venmo",
+        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465604021",
+        "data_coleta": "2026-09-11",
+        "hard_skills": [
+            "Python",
+            "Django",
+            "Flask",
+            "SOA",
+            "Git",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Terraform",
+            "SQL",
+            "NoSQL",
+            "Redis",
+            "SQS",
+            "SNS",
+            "Kafka",
+            "RabbitMQ",
+            "Pulsar",
+            "CI/CD"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Senior Software Engineer - Python",
+        "empresa": "Venmo",
+        "url": "https://www.linkedin.com/jobs/view/senior-software-engineer-python-at-venmo-4465379983",
+        "data_coleta": "2026-09-11",
+        "hard_skills": [
+            "Python",
+            "Django",
+            "Flask",
+            "Service-Oriented Architecture (SOA)",
+            "Git",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Terraform",
+            "SQL",
+            "NoSQL",
+            "Redis",
+            "SQS",
+            "SNS",
+            "Kafka",
+            "RabbitMQ",
+            "Pulsar",
+            "CI/CD"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
