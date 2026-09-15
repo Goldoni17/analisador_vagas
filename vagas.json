@@ -2825,5 +2825,23 @@
             "JavaScript"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Senior Data Scientist",
+        "empresa": "Ibotta",
+        "url": "https://www.linkedin.com/jobs/view/senior-data-scientist-at-ibotta-4467274164",
+        "data_coleta": "2026-09-15",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "JR and SR AI Developer",
+        "empresa": "Protective Life",
+        "url": "https://www.linkedin.com/jobs/view/jr-and-sr-ai-developer-at-protective-life-4465242791",
+        "data_coleta": "2026-09-15",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
     }
 ]
