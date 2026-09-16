@@ -2843,5 +2843,29 @@
         "data_coleta": "2026-09-15",
         "hard_skills": [],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "PayPal",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-paypal-4467962883",
+        "data_coleta": "2026-09-16",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist - Payments Risk Management & Data Analytics",
+        "empresa": "PayPal",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-payments-risk-management-data-analytics-at-paypal-4467950392",
+        "data_coleta": "2026-09-16",
+        "hard_skills": [
+            "Data science models",
+            "Algorithms",
+            "Statistical analysis",
+            "Data analysis",
+            "Data quality"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
