@@ -2867,5 +2867,51 @@
             "Data quality"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Associate AI Software Engineer/ AI Software Engineer (AHT)",
+        "empresa": "Northrop Grumman",
+        "url": "https://www.linkedin.com/jobs/view/associate-ai-software-engineer-ai-software-engineer-aht-at-northrop-grumman-4468369123",
+        "data_coleta": "2026-09-17",
+        "hard_skills": [
+            "Python",
+            "PyTorch",
+            "TensorFlow",
+            "Keras",
+            "Scikit-learn",
+            "Machine Learning",
+            "Deep Learning",
+            "Large Language Models (LLMs)",
+            "NLP (Natural Language Processing)",
+            "NLU (Natural Language Understanding)",
+            "NLG (Natural Language Generation)",
+            "Computer Vision",
+            "Image Processing",
+            "Sensor Fusion",
+            "Data Fusion",
+            "AWS",
+            "Linux",
+            "Microservices",
+            "Containerization",
+            "Container Orchestration",
+            "DevOps",
+            "DevSecOps",
+            "MLOps",
+            "Vector Databases",
+            "Graph Databases",
+            "Source Control",
+            "Modeling and Simulation"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Senior AI/ML Engineer - Remote",
+        "empresa": "Optum",
+        "url": "https://www.linkedin.com/jobs/view/senior-ai-ml-engineer-remote-at-optum-4468249243",
+        "data_coleta": "2026-09-17",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
     }
 ]
