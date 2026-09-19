@@ -2913,5 +2913,32 @@
         "data_coleta": "2026-09-17",
         "hard_skills": [],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "KBR Careers",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-kbr-careers-4469213615",
+        "data_coleta": "2026-09-19",
+        "hard_skills": [
+            "Python",
+            "SpaCy",
+            "Gensim",
+            "NLTK",
+            "PyTorch",
+            "TensorFlow",
+            "Keras",
+            "Hugging Face Transformers",
+            "SQL",
+            "Natural Language Processing (NLP)",
+            "Machine Learning",
+            "Deep Learning",
+            "Large Language Models (LLMs)",
+            "Cloud Computing",
+            "Spring Boot",
+            "REST APIs",
+            "GPU Computing"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
