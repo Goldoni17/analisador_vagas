@@ -2940,5 +2940,32 @@
             "GPU Computing"
         ],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Associate AI Software Engineer/ AI Software Engineer",
+        "empresa": "Northrop Grumman",
+        "url": "https://www.linkedin.com/jobs/view/associate-ai-software-engineer-ai-software-engineer-at-northrop-grumman-4469565996",
+        "data_coleta": "2026-09-20",
+        "hard_skills": [
+            "Python",
+            "PyTorch",
+            "TensorFlow",
+            "Keras",
+            "Scikit-learn",
+            "AWS",
+            "Linux",
+            "Large Language Models (LLMs)",
+            "Natural Language Processing (NLP)",
+            "Computer Vision",
+            "Microservices",
+            "Containerization",
+            "MLOps",
+            "DevOps",
+            "DevSecOps",
+            "Vector Databases",
+            "Graph Databases"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
