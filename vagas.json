@@ -3039,5 +3039,73 @@
         "data_coleta": "2026-09-30",
         "hard_skills": [],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "Booz Allen Hamilton",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4474341011",
+        "data_coleta": "2026-10-01",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Staff Data Scientist",
+        "empresa": "SmithRx",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-scientist-at-smithrx-4458566259",
+        "data_coleta": "2026-10-01",
+        "hard_skills": [
+            "SQL",
+            "dbt",
+            "Python",
+            "R"
+        ],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "Booz Allen Hamilton",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-at-booz-allen-hamilton-4474337084",
+        "data_coleta": "2026-10-01",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Staff Data Scientist",
+        "empresa": "SmithRx",
+        "url": "https://www.linkedin.com/jobs/view/staff-data-scientist-at-smithrx-4458552507",
+        "data_coleta": "2026-10-01",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI/ML Engineer, Mid",
+        "empresa": "Booz Allen Hamilton",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-mid-at-booz-allen-hamilton-4474339018",
+        "data_coleta": "2026-10-01",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI/ML Engineer, Senior",
+        "empresa": "Booz Allen Hamilton",
+        "url": "https://www.linkedin.com/jobs/view/ai-ml-engineer-senior-at-booz-allen-hamilton-4474314992",
+        "data_coleta": "2026-10-01",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Applied AI Engineer (New or Recent Grad)",
+        "empresa": "iManage",
+        "url": "https://www.linkedin.com/jobs/view/applied-ai-engineer-new-or-recent-grad-at-imanage-4472369136",
+        "data_coleta": "2026-10-01",
+        "hard_skills": [],
+        "ingles": "Não mencionado"
     }
 ]
