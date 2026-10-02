@@ -3107,5 +3107,31 @@
         "data_coleta": "2026-10-01",
         "hard_skills": [],
         "ingles": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist, Senior",
+        "empresa": "Booz Allen Hamilton",
+        "url": "https://www.linkedin.com/jobs/view/data-scientist-senior-at-booz-allen-hamilton-4474519296",
+        "data_coleta": "2026-10-02",
+        "hard_skills": [
+            "Python",
+            "R",
+            "SQL",
+            "NoSQL",
+            "Machine Learning",
+            "Natural Language Processing",
+            "Text Mining",
+            "ETL Pipelines",
+            "API Building",
+            "Jupyter Notebook",
+            "Pandas",
+            "Numpy",
+            "Requests",
+            "Antigravity",
+            "Data Visualization",
+            "Data Mining"
+        ],
+        "ingles": "Não mencionado"
     }
 ]
