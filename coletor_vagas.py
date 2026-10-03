@@ -76,19 +76,24 @@ def extrair_descricao_da_vaga(url_vaga, cargo_buscado):
 
 def extrair_skills_com_ia(texto_vaga):
     prompt = f"""
-    Você é um recrutador técnico. Leia a descrição da vaga e extraia os dados.
+    Você é um recrutador técnico sênior e especialista em análise de dados. 
+    Leia a descrição da vaga e extraia os dados solicitados.
     
     Regras estritas:
     1. Responda APENAS com JSON válido.
-    2. hard_skills: identifique ferramentas, linguagens e frameworks (exclua soft skills).
+    2. hard_skills: Extraia TODAS as habilidades técnicas, sem exceção. Isso inclui:
+       - Linguagens de programação (Python, SQL, R, Scala, etc.)
+       - Ferramentas, Cloud e Bancos de Dados (BigQuery, AWS, Spark, Docker, etc.)
+       - Metodologias, Conceitos e Algoritmos (Machine Learning, Teste A/B, Forecasting, Graph Embeddings, Deep Learning, Pipelines de Dados, etc.)
+       Seja exaustivo e detalhista. Liste todos os termos técnicos, matemáticos e estatísticos relevantes encontrados.
     3. ingles: use APENAS "Obrigatório", "Desejável" ou "Não mencionado".
     4. modelo_trabalho: identifique se a vaga é "Remoto", "Híbrido", "Presencial". Se não der para saber, use "Não mencionado".
     
     Formato esperado:
     {{
-        "hard_skills": ["Python", "AWS", "SQL"],
+        "hard_skills": ["Python", "BigQuery", "SQL", "Machine Learning", "Forecasting", "Teste A/B", "Graph Embeddings", "Pipelines de Dados"],
         "ingles": "Obrigatório",
-        "modelo_trabalho": "Remoto"
+        "modelo_trabalho": "Híbrido"
     }}
     
     Descrição da vaga:
