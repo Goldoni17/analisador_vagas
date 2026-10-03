@@ -338,5 +338,294 @@
         ],
         "ingles": "Obrigatório",
         "modelo_trabalho": "Híbrido"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Senior Data Scientist - Cybersecurity",
+        "empresa": "Truelogic",
+        "url": "https://br.linkedin.com/jobs/view/senior-data-scientist-cybersecurity-at-truelogic-4473008198",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "PyTorch",
+            "TensorFlow",
+            "Hugging Face",
+            "scikit-learn",
+            "Pandas",
+            "NLP",
+            "Transformers",
+            "LLMs",
+            "NER"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Remoto"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "CIENTISTA DE DADOS (INTELIGÊNCIA CORPORATIVA)",
+        "empresa": "Biolab & Co",
+        "url": "https://br.linkedin.com/jobs/view/cientista-de-dados-intelig%C3%AAncia-corporativa-at-biolab-co-4463433783",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Scikit-Learn",
+            "Statsmodels",
+            "SQL",
+            "Databricks",
+            "Snowflake",
+            "AWS",
+            "Azure",
+            "GCP",
+            "Git",
+            "MLOps",
+            "Deep Learning",
+            "NLP"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "CIENTISTA DE DADOS PLENO II",
+        "empresa": "WPP Enterprise Solutions",
+        "url": "https://br.linkedin.com/jobs/view/cientista-de-dados-pleno-ii-at-wpp-enterprise-solutions-4472747867",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "SQL",
+            "Power BI",
+            "Tableau",
+            "Looker"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Sr Data Scientist",
+        "empresa": "Bunge",
+        "url": "https://br.linkedin.com/jobs/view/sr-data-scientist-at-bunge-4461281244",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "R",
+            "SQL",
+            "Machine Learning"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Senior Data Scientist, Full Stack (Brazil)",
+        "empresa": "TRM Labs",
+        "url": "https://br.linkedin.com/jobs/view/senior-data-scientist-full-stack-brazil-at-trm-labs-4418980527",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "Spark",
+            "BigQuery",
+            "Airflow",
+            "Cursor",
+            "Claude Code"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Remoto"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "AI Machine Learning Engineer - Remote - Latin America",
+        "empresa": "FullStack",
+        "url": "https://br.linkedin.com/jobs/view/ai-machine-learning-engineer-remote-latin-america-at-fullstack-4475037577",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "LangChain",
+            "LLMs",
+            "RAG",
+            "FAISS",
+            "Pinecone",
+            "Weaviate",
+            "AWS",
+            "GCP",
+            "Azure",
+            "MLOps",
+            "CI/CD"
+        ],
+        "ingles": "Obrigatório",
+        "modelo_trabalho": "Remoto"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Engenheiro(a) de IA Generativa",
+        "empresa": "4DF Connect",
+        "url": "https://br.linkedin.com/jobs/view/engenheiro-a-de-ia-generativa-at-4df-connect-4455974806",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "LangGraph",
+            "LangChain",
+            "Docker",
+            "Kubernetes",
+            "Transformers",
+            "LlamaIndex"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Pipeline - Engenheiro de IA - Pleno",
+        "empresa": "EY",
+        "url": "https://br.linkedin.com/jobs/view/pipeline-engenheiro-de-ia-pleno-at-ey-4415728792",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "RAG",
+            "LLM",
+            "NLP",
+            "Prompt Engineering",
+            "Ollama",
+            "Hugging Face",
+            "LangChain",
+            "LangGraph",
+            "CrewAI",
+            "APIs REST",
+            "JSON",
+            "Docker",
+            "Git",
+            "SQL",
+            "NoSQL",
+            "MLOps"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Machine Learning Engineer",
+        "empresa": "CloudWalk, Inc.",
+        "url": "https://br.linkedin.com/jobs/view/machine-learning-engineer-at-cloudwalk-inc-4473045197",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "PyTorch",
+            "TensorFlow",
+            "Scikit-Learn",
+            "Rust",
+            "TypeScript",
+            "Cloudflare",
+            "Cloudflare Workers",
+            "Cloudflare WAF",
+            "Cloudflare Workers AI",
+            "Fastly",
+            "AWS Edge",
+            "AWS",
+            "GCP",
+            "LLMs"
+        ],
+        "ingles": "Obrigatório",
+        "modelo_trabalho": "Remoto"
+    },
+    {
+        "categoria": "AI Engineer",
+        "titulo": "Deep Learning Engineer - Remote Work | REF#303453",
+        "empresa": "BairesDev",
+        "url": "https://br.linkedin.com/jobs/view/deep-learning-engineer-remote-work-ref%23303453-at-bairesdev-4464689803",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "PyTorch",
+            "Python",
+            "GPU"
+        ],
+        "ingles": "Obrigatório",
+        "modelo_trabalho": "Remoto"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Software Engineer I Fundos de Investimento",
+        "empresa": "QI Tech",
+        "url": "https://br.linkedin.com/jobs/view/software-engineer-i-fundos-de-investimento-at-qi-tech-4462519182",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "AWS",
+            "GCP",
+            "API"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Presencial"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Assistente de Desenvolvimento (Python e Angular) - Exclusiva PCD - Híbrido",
+        "empresa": "Accenture Brasil",
+        "url": "https://br.linkedin.com/jobs/view/assistente-de-desenvolvimento-python-e-angular-exclusiva-pcd-h%C3%ADbrido-at-accenture-brasil-4444910132",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "Angular"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Desenvolvedor Python Pleno",
+        "empresa": "Selbetti Tecnologia",
+        "url": "https://br.linkedin.com/jobs/view/desenvolvedor-python-pleno-at-selbetti-tecnologia-4441045962",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python",
+            "Django",
+            "Flask",
+            "FastAPI",
+            "PostgreSQL",
+            "MySQL",
+            "Git",
+            "REST"
+        ],
+        "ingles": "Obrigatório",
+        "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Desenvolvedor Python",
+        "empresa": "Jobbol",
+        "url": "https://br.linkedin.com/jobs/view/desenvolvedor-python-at-jobbol-4465894956",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Python"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Híbrido"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Especialista em Desenvolvimento de Software I",
+        "empresa": "Serasa Experian",
+        "url": "https://br.linkedin.com/jobs/view/especialista-em-desenvolvimento-de-software-i-at-serasa-experian-4258069288",
+        "data_coleta": "2026-10-03",
+        "hard_skills": [
+            "Java",
+            "Python",
+            "Apache Airflow",
+            "Generative AI",
+            "AWS",
+            "GCP",
+            "Azure",
+            "Microsserviços",
+            "CI/CD",
+            "DevOps"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Não mencionado"
     }
 ]
