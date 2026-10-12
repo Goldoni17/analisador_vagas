@@ -3369,5 +3369,29 @@
         ],
         "ingles": "Obrigatório",
         "modelo_trabalho": "Remoto"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist",
+        "empresa": "Wildlife Studios",
+        "url": "https://br.linkedin.com/jobs/view/data-scientist-at-wildlife-studios-4475154437",
+        "data_coleta": "2026-10-12",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "R",
+            "Machine Learning",
+            "Applied Statistics",
+            "A/B Testing",
+            "Experimentation Design",
+            "Predictive Modeling",
+            "Hypothesis Testing",
+            "Agentic AI",
+            "LLMs",
+            "Product Analytics",
+            "Data Products"
+        ],
+        "ingles": "Obrigatório",
+        "modelo_trabalho": "Não mencionado"
     }
 ]
