@@ -4602,5 +4602,34 @@
         ],
         "ingles": "Não mencionado",
         "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Senior Software Engineer (Python/Flask+React) - Remote, Latin America",
+        "empresa": "Bluelight",
+        "url": "https://br.linkedin.com/jobs/view/senior-software-engineer-python-flask%2Breact-remote-latin-america-at-bluelight-4480906926",
+        "data_coleta": "2026-10-19",
+        "hard_skills": [
+            "Python",
+            "Flask",
+            "FastAPI",
+            "Django",
+            "JavaScript",
+            "TypeScript",
+            "ReactJS",
+            "PostgreSQL",
+            "Relational Databases",
+            "Data Storage Systems",
+            "Data Access Models",
+            "Service-Oriented Architecture",
+            "Full-Stack Development",
+            "Financial Reporting",
+            "Data Visualization",
+            "Agile Methodologies",
+            "Data Engineering",
+            "Analytics"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Não mencionado"
     }
 ]
