@@ -4631,5 +4631,83 @@
         ],
         "ingles": "Não mencionado",
         "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Data Scientist SR",
+        "empresa": "Bradesco",
+        "url": "https://br.linkedin.com/jobs/view/data-scientist-sr-at-banco-bradesco-4480183215",
+        "data_coleta": "2026-10-20",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "Databricks",
+            "Power BI",
+            "Modelagem Estatística",
+            "Ciência de Dados",
+            "Inteligência de Negócios",
+            "Modelagem de Pricing",
+            "Elasticidade de Anuidade",
+            "Precificação de Parcelado",
+            "Análise de Churn",
+            "Projeções Quantitativas",
+            "Análise de Sensibilidade",
+            "Modelagem de Comportamento",
+            "Modelagem de Rentabilidade",
+            "Modelagem de Risco",
+            "Análise Transacional",
+            "Estatística",
+            "Matemática"
+        ],
+        "ingles": "Desejável",
+        "modelo_trabalho": "Híbrido"
+    },
+    {
+        "categoria": "Data Scientist",
+        "titulo": "Cientista de Dados",
+        "empresa": "ROIT",
+        "url": "https://br.linkedin.com/jobs/view/cientista-de-dados-at-roit-4481210491",
+        "data_coleta": "2026-10-20",
+        "hard_skills": [
+            "Python",
+            "SQL",
+            "Inteligência Artificial",
+            "IA Generativa",
+            "Machine Learning",
+            "Large Language Models (LLMs)",
+            "RAG (Retrieval-Augmented Generation)",
+            "Agentes Inteligentes",
+            "Ciência de Dados",
+            "Análise de Dados",
+            "Estatística",
+            "Análise Exploratória de Dados"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Backend Python Senior",
+        "empresa": "Omnibees",
+        "url": "https://br.linkedin.com/jobs/view/backend-python-senior-at-omnibees-4409993946",
+        "data_coleta": "2026-10-20",
+        "hard_skills": [
+            "Python",
+            "Arquitetura Serverless",
+            "DynamoDB",
+            "Modelagem de Dados",
+            "Sistemas de Alta Escala",
+            "Observabilidade",
+            "Rastreabilidade",
+            "Sistemas Distribuídos",
+            "Logs",
+            "Traces",
+            "Métricas",
+            "Code Review",
+            "AWS",
+            "Desenvolvimento Seguro"
+        ],
+        "ingles": "Não mencionado",
+        "modelo_trabalho": "Não mencionado"
     }
 ]
