@@ -10589,5 +10589,36 @@
         ],
         "ingles": "Não mencionado",
         "modelo_trabalho": "Não mencionado"
+    },
+    {
+        "categoria": "Desenvolvedor Python",
+        "titulo": "Data Engineer Python + AWS",
+        "empresa": "EY",
+        "url": "https://br.linkedin.com/jobs/view/data-engineer-python-%2B-aws-at-ey-4488265194",
+        "data_coleta": "2026-11-15",
+        "hard_skills": [
+            "Python",
+            "AWS",
+            "AWS Glue",
+            "Amazon S3",
+            "Amazon Redshift",
+            "AWS Lambda",
+            "SQL",
+            "ETL/ELT",
+            "Pipelines de Dados",
+            "Ingestão de Dados",
+            "Transformação de Dados",
+            "Integração de Dados",
+            "Modelagem de Dados",
+            "Data Warehousing",
+            "Data Lakes",
+            "Qualidade de Dados",
+            "Governança de Dados",
+            "Automação de Dados",
+            "Processamento de Dados",
+            "Engenharia de Dados"
+        ],
+        "ingles": "Obrigatório",
+        "modelo_trabalho": "Não mencionado"
     }
 ]
